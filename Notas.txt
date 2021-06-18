@@ -1,0 +1,83 @@
+
+modulos que se estan utilizando 
+express 
+ejs
+morgan
+nodemon 
+
+
+---CDN utlizados 
+Bootstar version5 
+https://getbootstrap.com/
+
+Fuentes 
+https://fontawesome.com/start
+
+Fuentes de google 
+https://fonts.google.com/specimen/Spicy+Rice#standard-styles
+
+degradados 
+https://uigradients.com/
+
+Imagenes PNG 
+
+Animate css
+
+https://animate.style/
+
+Now 
+
+https://vercel.com/signup
+
+
+
+
+
+D:\Datos Usuario\Jorge\Desktop\Desarrollo\nodejs-website>now
+Now CLI 21.0.1
+> No existing credentials found. Please log in:
+Enter your email: jmcmaster77@gmail.com
+Error! Please sign up: https://vercel.com/signup
+
+D:\Datos Usuario\Jorge\Desktop\Desarrollo\nodejs-website>now
+Now CLI 21.0.1
+> No existing credentials found. Please log in:
+We sent an email to jmcmaster77@gmail.com. Please follow the steps provided inside it and make sure the security code matches Clean Antelope.
+√ Email confirmed
+Congratulations! You are now logged in. In order to deploy something, run `now`.
+💡  Connect your Git Repositories to deploy every branch push automatically (https://vercel.link/git).
+
+D:\Datos Usuario\Jorge\Desktop\Desarrollo\nodejs-website>now
+Now CLI 21.0.1
+? Set up and deploy “D:\Datos Usuario\Jorge\Desktop\Desarrollo\nodejs-website”? [Y/n] y
+? Which scope do you want to deploy to? jmcmaster77
+? Link to existing project? [y/N] y
+? What’s the name of your existing project? nodejs-website
+Error! Project not found
+? What’s the name of your existing project?
+D:\Datos Usuario\Jorge\Desktop\Desarrollo\nodejs-website>now
+Now CLI 21.0.1
+? Set up and deploy “D:\Datos Usuario\Jorge\Desktop\Desarrollo\nodejs-website”? [Y/n] y
+? Which scope do you want to deploy to? jmcmaster77
+? Link to existing project? [y/N] n
+? What’s your project’s name? nodejs-website
+? In which directory is your code located? ./
+No framework detected. Default Project Settings:
+- Build Command: `npm run vercel-build` or `npm run build`
+- Output Directory: `public` if it exists, or `.`
+- Development Command: None
+? Want to override the settings? [y/N] n
+🔗  Linked to jmcmaster77/nodejs-website (created .vercel and added it to .gitignore)
+🔍  Inspect: https://vercel.com/jmcmaster77/nodejs-website-391kju0ec/jmcmaster77 [1m]
+✅  Production: https://nodejs-website-ten.vercel.app [copied to clipboard] [2m]
+📝  Deployed to production. Run `vercel --prod` to overwrite later (https://vercel.link/2F).
+💡  To change the domain or build command, go to https://vercel.com/jmcmaster77/nodejs-website/settings
+
+D:\Datos Usuario\Jorge\Desktop\Desarrollo\nodejs-website>
+
+https://vercel.com/jmcmaster77/nodejs-website/FHkyhKEkTktWR72KgyzyADMHEdKF/source
+
+https://vercel.com/jmcmaster77/nodejs-website
+
+
+
