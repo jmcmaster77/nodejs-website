@@ -85,6 +85,13 @@ se crea el siguiente repositorio
 
 https://github.com/jmcmaster77/nodejs-website.git
 
+Nota primero de se agrega readme.md - los cambios en gitignore y demas cambios 
+
+git remote add origin https://github.com/jmcmaster77/nodejs-website.git
+
+Token 
+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
+
 
 
 
