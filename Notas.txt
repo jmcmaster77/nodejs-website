@@ -78,6 +78,13 @@ D:\Datos Usuario\Jorge\Desktop\Desarrollo\nodejs-website>
 https://vercel.com/jmcmaster77/nodejs-website/FHkyhKEkTktWR72KgyzyADMHEdKF/source
 
 https://vercel.com/jmcmaster77/nodejs-website
+### intento de subir directamente a vercel on now fallo ###
+
+### intentando con github ###
+se crea el siguiente repositorio 
+
+https://github.com/jmcmaster77/nodejs-website.git
+
 
 
 
