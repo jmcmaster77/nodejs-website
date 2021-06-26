@@ -4,9 +4,12 @@ const morgan = require('morgan');
 const app = express();
 const path = require('path');
 const { execPath } = require('process');
+const normalizePort = require('normalize-port');
+
 
 // Settings 
-app.set('port', 3000);
+var port = normalizePort(process.env.PORT || '3000');
+app.set('port', port);
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 // middlewares  
