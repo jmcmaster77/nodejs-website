@@ -1,4 +1,4 @@
-poryecto de Nodejs reando un website 
+poryecto de Nodejs creando un website 
 
 utilizando modulos 
 
@@ -29,4 +29,6 @@ Imagenes PNG
 Animate css
 
 https://animate.style/
+
+normalize Port --- npm 
 
